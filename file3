@@ -1,0 +1,4 @@
+file3 edited branch third
+file3 is edited by first branch.
+this file modified by second branch second.
+>>>>>>> 6beeade (first_file_1,first_file_2 and file3 modified by second branch)
